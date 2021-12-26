@@ -1,15 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me)
+# To use for next logs:
+### Day 0: Month 25, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Forked this rep and joined the challenge. Performed clone, add, status, commit, push outside of school work.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
+
+
+### Day 1: December 25, 2021
+
+**Today's Progress**: Forked this rep and joined the challenge. Performed clone, add, status, commit, push outside of school work.
+
+**Thoughts:** When stuck or lost, I researched, read and watched videos about my question. Although a simple task, I pushed through and made a good example for my future self.
+
+**Link to work:** 
+
+
+### Day 0: December 26, 2021
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
