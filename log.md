@@ -11,6 +11,9 @@
 
 
 
+
+
+
 ### Day 1: December 25, 2021
 
 **Today's Progress**: Forked this rep and joined the challenge. Performed clone, add, status, commit, push outside of school work.
@@ -20,12 +23,11 @@
 **Link to work:** 
 
 
-### Day 0: December 26, 2021
-##### (delete me or comment me out)
+### Day 10: January 4, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished Write Your First App with Flutter, Part 1.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I have a solid application that I can see perform on the simulator. This codelab has given me an understanding of the overall process, but I need to learn and understand the components well enough to use on my own through practice.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
